@@ -3,7 +3,7 @@
 - 🏢 I'm a Program Manager at [Microsoft](http://microsoft.com) (who occasionally writes some code)
 - 🐣 I accidentally started coding at 12 when I learned PASCAL by trying to write bots to cheat at RuneScape
 - 🔨 I'll occasionally throw together some handy scripts and tools to make life easier
-- 💻 My go-to languages are C#, JavaScript, and PHP -- but I'll also tinker with Python, C++, and Swift
+- 💻 My go-to languages are C#, JavaScript, TypeScript, and PHP -- but I'll also tinker with Python, C++, React, and Swift
 - 📫 You can reach me at hey at chism.io
 - 🌎 Or you can check out my [LinkedIn](http://linkedin.com/in/shanechism)
 
